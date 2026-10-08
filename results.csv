@@ -1,0 +1,31 @@
+message,expected,predicted
+Your electricity will be disconnected tonight. Call 98XXXXXXXX now.,SCAM,SCAM
+Your OTP for login is 482910. Do not share it with anyone.,SAFE,SAFE
+Congratulations! You won a prize. Click bit.ly/xyz to claim.,SCAM,SCAM
+Your bank account will be blocked. Verify immediately using this link.,SCAM,SCAM
+Your appointment is confirmed for tomorrow at 10 AM.,SAFE,SAFE
+Your parcel is waiting. Pay ₹25 now to receive it.,SCAM,SCAM
+Your college class starts at 9 AM tomorrow.,SAFE,SAFE
+URGENT: Your account has been selected for a cash reward. Claim now.,SCAM,SCAM
+Your electricity bill payment of ₹850 was successful.,SAFE,SAFE
+Click this link to update your KYC or your account will be suspended.,SCAM,ERROR
+Your friend sent you a message. Please call them when free.,SAFE,SAFE
+"Congratulations, you have won ₹50,000. Send your bank details to claim.",SCAM,SCAM
+Your train ticket booking is confirmed.,SAFE,SAFE
+Your SIM will stop working today. Call this number immediately.,SCAM,SCAM
+Your order has been shipped and will arrive tomorrow.,SAFE,SAFE
+Your ATM card will be blocked unless you verify your PIN immediately.,SCAM,SCAM
+Reminder: Your project submission is tomorrow.,SAFE,SAFE
+You have received a cashback reward. Click here to activate it.,SCAM,SCAM
+Your electricity bill is due on October 15.,SAFE,SAFE
+Your account has suspicious activity. Login immediately using this link.,SCAM,SCAM
+Your meeting has been scheduled for 3 PM.,SAFE,SAFE
+You won a free smartphone. Pay ₹99 delivery charges to claim it.,SCAM,SCAM
+Your password was changed successfully.,SAFE,SAFE
+Your bank KYC has expired. Click the link to update it.,SCAM,SCAM
+Your food order has been delivered.,SAFE,SAFE
+You have been selected for a government cash prize. Send your details.,SCAM,SCAM
+Your exam timetable has been published.,SAFE,SAFE
+Your package could not be delivered. Pay ₹40 to reschedule delivery.,SCAM,SCAM
+Your subscription renewal was successful.,SAFE,SAFE
+URGENT! Your account will be permanently deleted unless you verify now.,SCAM,SCAM
